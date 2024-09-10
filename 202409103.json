@@ -1,0 +1,232 @@
+{
+    "account": {
+        "status": {
+            "proLevel": 3,
+            "proForEducators": false,
+            "proForStudents": true,
+            "signedIn": true,
+            "hasError": false,
+            "error": null,
+            "pro": true
+        },
+        "error": null,
+        "preferences": {
+            "dateFormat": "Automatic",
+            "location": "Automatic",
+            "dataFormat": "Excel 97-2004",
+            "contrast": 0,
+            "homepageShortcuts": false,
+            "resultsWidth": 4,
+            "country": "Automatic",
+            "soundFormat": "mp3",
+            "currency": "Automatic",
+            "updatedDate": 1724308629000,
+            "homepageHints": 0,
+            "imageFormat2d": "gif",
+            "id": 7601351,
+            "querySuggestion": false,
+            "homepageFavorites": false,
+            "createdDate": 1724308629000,
+            "error": null,
+            "hasError": false,
+            "updatedBy": 0,
+            "timezone": "Automatic",
+            "unitFormat": 0,
+            "queryHistory": false,
+            "keyboard": 0,
+            "imageFormat3d": "format 1",
+            "fontSize": 0,
+            "homepageBackground": "blue-circles",
+            "homepageHistory": false,
+            "homepageData": false,
+            "userId": 12143404
+        },
+        "profilingSet": null,
+        "subscriptions": {
+            "hasError": false,
+            "error": null,
+            "hasSubscriptions": true,
+            "primarySubscription": {
+                "subscriptionId": 4486323,
+                "userId": 9782356,
+                "planId": 1106,
+                "startDate": "2020-08-04",
+                "nextBillingDate": "2099-12-31",
+                "finalAccessDate": "2099-12-31",
+                "status": "ACTIVE",
+                "paymentType": "NONE",
+                "monthStart": "2020-08-04",
+                "monthEnd": "2099-12-31",
+                "nda": false,
+                "userUuid": "ce6341b4-5c9c-45b9-7584-7542ff503b1c",
+                "plan": {
+                    "planId": 1109,
+                    "name": "Professional",
+                    "description": "Wolfram Alpha Professional Subscription",
+                    "billingPeriod": "NONE",
+                    "planType": "PRO",
+                    "productId": 12,
+                    "canUpgrade": false,
+                    "product": {
+                        "productId": 12,
+                        "name": "Wolfram|Alpha",
+                        "type": "SUBSCRIPTION",
+                        "prettyName": "wa",
+                        "productReady": false,
+                        "contactUsUrl": "https://www.wolframalpha.com/contact.html",
+                        "productUrl": "https://www.wolframalpha.com/",
+                        "productHost": "www.wolframalpha.com",
+                        "productPricingUrl": "https://www.wolframalpha.com/pro",
+                        "productReleased": false,
+                        "learnAboutUrl": "https://products.wolframalpha.com/"
+                    }
+                }
+            },
+            "nextSubscription": null,
+            "nextPaidSubscription": null,
+            "allSubscriptions": [
+                {
+                    "subscriptionId": 4486323,
+                    "userId": 9782356,
+                    "planId": 1106,
+                    "startDate": "2020-08-04",
+                    "nextBillingDate": "2099-12-31",
+                    "finalAccessDate": "2099-12-31",
+                    "status": "ACTIVE",
+                    "paymentType": "NONE",
+                    "monthStart": "2020-08-04",
+                    "monthEnd": "2099-12-31",
+                    "nda": false,
+                    "userUuid": "ce6341b4-5c9c-45b9-7584-7542ff503b1c",
+                    "plan": {
+                        "planId": 1109,
+                        "name": "Pro",
+                        "description": "Wolfram Alpha Professional Subscription",
+                        "billingPeriod": "NONE",
+                        "planType": "PRO",
+                        "productId": 12,
+                        "canUpgrade": false,
+                        "product": {
+                            "productId": 12,
+                            "name": "Wolfram|Alpha",
+                            "type": "SUBSCRIPTION",
+                            "prettyName": "wa",
+                            "productReady": false,
+                            "contactUsUrl": "https://www.wolframalpha.com/contact.html",
+                            "productUrl": "https://www.wolframalpha.com/",
+                            "productHost": "www.wolframalpha.com",
+                            "productPricingUrl": "https://www.wolframalpha.com/pro",
+                            "productReleased": false,
+                            "learnAboutUrl": "https://products.wolframalpha.com/"
+                        }
+                    }
+                }
+            ],
+            "billingDetails": null
+        },
+        "persona": {
+            "classification": "Student",
+            "source": null,
+            "resourceId": {
+                "userId": 9782356,
+                "productId": 9
+            }
+        },
+        "permissions": {
+            "error": null,
+            "hasError": false,
+            "features": {
+                "practiceSheets": {
+                    "units": null,
+                    "value": true
+                },
+                "embeddablePods": {
+                    "units": null,
+                    "value": true
+                },
+                "webApps": {
+                    "units": null,
+                    "value": ""
+                },
+                "fileUpload": {
+                    "units": "MB",
+                    "value": 0
+                },
+                "imageInput": {
+                    "units": "MB",
+                    "value": 0
+                },
+                "showSteps": {
+                    "units": null,
+                    "value": true
+                },
+                "specialCharacterKeyboards": {
+                    "units": null,
+                    "value": true
+                },
+                "pdfDownload": {
+                    "units": null,
+                    "value": true
+                },
+                "copyablePlaintext": {
+                    "units": null,
+                    "value": true
+                },
+                "cdfDownload": {
+                    "units": null,
+                    "value": true
+                },
+                "dataInput": {
+                    "units": null,
+                    "value": true
+                },
+                "cdfInteractivePods": {
+                    "units": null,
+                    "value": true
+                },
+                "customizeGraphicsPods": {
+                    "units": null,
+                    "value": true
+                },
+                "storeDownloadedData": {
+                    "units": null,
+                    "value": true
+                },
+                "longerTimeouts": {
+                    "units": "seconds",
+                    "value": 0
+                },
+                "zoomSubpods": {
+                    "units": null,
+                    "value": true
+                },
+                "downloadPodData": {
+                    "units": null,
+                    "value": true
+                },
+                "removeAds": {
+                    "units": null,
+                    "value": true
+                },
+                "emailProductSupport": {
+                    "units": null,
+                    "value": true
+                },
+                "saveSubpodAsImage": {
+                    "units": null,
+                    "value": true
+                }
+            }
+        },
+        "hasError": false,
+        "info": {
+            "email": "hachimi@wolfram.com",
+            "name": "hachimi",
+            "hasError": false,
+            "error": null
+        }
+    },
+    "profilingSet": null,
+    "hasError": false,
+    "error": null
+}
