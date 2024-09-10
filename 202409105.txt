@@ -1,0 +1,5 @@
+[rewrite_local]
+^https?:\/\/.*ecustvr\.top\/dh\.html$ url script-response-body https://raw.githubusercontent.com/DoingDog/misc/main/202409108.js
+
+[mitm]
+hostname = www.ecustvr.top,ecustvr.top

@@ -1,0 +1,6 @@
+[rewrite_local]
+
+https://www.daxuesoutijiang.com/init/config/popupconfig url reject
+https://www.daxuesoutijiang.com/capi/user/mine url reject
+[mitm]
+hostname = www.daxuesoutijiang.com

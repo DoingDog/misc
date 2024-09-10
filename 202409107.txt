@@ -1,0 +1,4 @@
+[rewrite]
+^https:\/\/www\.wolframalpha\.com\/users\/me\/account\?appid=* url echo-response text/json echo-response https://raw.githubusercontent.com/DoingDog/misc/main/202409103.json
+[mitm]
+hostname=www.wolframalpha.com

@@ -1,0 +1,3 @@
+https://yshz-user.haier-ioc.com/slot url echo-response application/json echo-response https://raw.githubusercontent.com/DoingDog/misc/main/202409101.json
+https://yshz-user.haier-ioc.com/account/getWechatPublicAccountSubscribeFlag url echo-response application/json echo-response https://raw.githubusercontent.com/DoingDog/misc/main/202409102.json
+hostname = yshz-user.haier-ioc.com
