@@ -1,6 +1,11 @@
 [rewrite_local]
-
+https://apivip.zuoyebang.com/viponline/college/mycard url reject
+https://www.daxuesoutijiang.com/init/config/resourceposition url reject
+https://zyb-stats.zuoyebang.cc/.+.json url reject
+https://www.daxuesoutijiang.com/init/config/searchtree url reject
+https://cdn.daxuesoutijiang.com/static/hy/dx-core url reject
+https://sanxia-platform.cdnjtzy.com/ url reject
 https://www.daxuesoutijiang.com/init/config/popupconfig url reject
 https://www.daxuesoutijiang.com/capi/user/mine url reject
 [mitm]
-hostname = www.daxuesoutijiang.com
+hostname=apivip.zuoyebang.com,www.daxuesoutijiang.com, zyb-stats.zuoyebang.cc,cdn.daxuesoutijiang.com,sanxia-platform.cdnjtzy.com
