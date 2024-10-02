@@ -1,0 +1,4 @@
+HOST-WILDCARD,*pcdn*.biliapi.net
+HOST-SUFFIX,mcdn.bilivideo.cn
+HOST-SUFFIX,szbdyd.com
+HOST-WILDCARD,cn-*.bilivideo.com
