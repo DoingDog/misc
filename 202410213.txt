@@ -81,7 +81,6 @@ hostname = *.cyapi.cn, *.google.cn, *.m.goofish.com, *.pornhub.com, *.weibo.cn, 
 ^https:\/\/api\.zhihu\.com\/v5\.1\/topics\/answer\/\d+\/relation reject-dict
 ^https:\/\/app\.bilibili\.com\/x\/resource\/ip reject-dict
 ^https:\/\/app\.bilibili\.com\/x\/resource\/show\/skin\? response-body-json-del data.common_equip
-^https:\/\/app\.bilibili\.com\/x\/resource\/top\/activity\? mock-response-body data-type=json status-code=200 data="{ "code": -404, "message": "啥都木有", "ttl": 1, "data": null }"
 ^https:\/\/app\.yiyan\.art\/yiyan\/getsplashscreen\? reject-dict
 ^https:\/\/appcloud2\.zhihu\.com\/v3\/resource\?group_name=mp reject-dict
 ^https:\/\/asserts\.avple\.tv\/file\/avple-images\/ad\.js reject
