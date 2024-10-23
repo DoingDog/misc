@@ -1,0 +1,2 @@
+[MITM]
+hostname = -biz.cyapi.cn, -consumer.fcbox.com, -*huami.com,-api.revenuecat.com
