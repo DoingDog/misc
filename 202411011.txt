@@ -1,0 +1,3 @@
+hostname=mooc*api.chaoxing.com
+https://mooc.+.chaoxing.com/.+/receiveExamLogs.+4$ url reject-dict
+https://mooc.+.chaoxing.com/.+/exit-count url reject-dict
